@@ -1,0 +1,24 @@
+0000000000000000000000000000000000000000 36d3b00fe2284dda749211a6c00dde658efb1507 rchli <lyric@rch-pro.local> 1651389737 -0700	clone: from github.com:cse260-sp22/hw2-pa2-caw062-rul004.git
+36d3b00fe2284dda749211a6c00dde658efb1507 36d3b00fe2284dda749211a6c00dde658efb1507 rchli <lyric@rch-pro.local> 1652514371 -0700	checkout: moving from main to optimax
+36d3b00fe2284dda749211a6c00dde658efb1507 dc980b0976c4aad9665a6b0fba5f1fb5bd6cf6b6 rchli <lyric@rch-pro.local> 1652514454 -0700	pull origin optimize: Fast-forward
+dc980b0976c4aad9665a6b0fba5f1fb5bd6cf6b6 eccdbcd8c5d29e2273e4e4af3f7d13e28f801bf0 rchli <lyric@rch-pro.local> 1652575966 -0700	commit: outer product, draft version
+eccdbcd8c5d29e2273e4e4af3f7d13e28f801bf0 cac200d0171f1f90c807d01f837f6e7f9495794c rchli <lyric@rch-pro.local> 1652593747 -0700	commit: finish outer product coding
+cac200d0171f1f90c807d01f837f6e7f9495794c 9e76c2e32ef8561d18e8885744fdb21b83bf8e78 rchli <lyric@rch-pro.local> 1652595883 -0700	commit: refine outer product code
+9e76c2e32ef8561d18e8885744fdb21b83bf8e78 7c4f84f5324f35e37ec9661e0326c6c7ea9216ed rchli <lyric@rch-pro.local> 1652600918 -0700	commit: outer product, update blocking
+7c4f84f5324f35e37ec9661e0326c6c7ea9216ed 7c4f84f5324f35e37ec9661e0326c6c7ea9216ed git stash <git@stash> 1652604874 -0700	reset: moving to HEAD
+7c4f84f5324f35e37ec9661e0326c6c7ea9216ed 86c46374c29954ca9053b793d379a1ba27c5cf79 rchli <lyric@rch-pro.local> 1652604885 -0700	pull origin optimax: Fast-forward
+86c46374c29954ca9053b793d379a1ba27c5cf79 35a91e82f3eb12ca6f702b42f9eea624c5e5072a rchli <lyric@rch-pro.local> 1652609526 -0700	pull origin optimax: Fast-forward
+35a91e82f3eb12ca6f702b42f9eea624c5e5072a 35a91e82f3eb12ca6f702b42f9eea624c5e5072a git stash <git@stash> 1652619720 -0700	reset: moving to HEAD
+35a91e82f3eb12ca6f702b42f9eea624c5e5072a dcbb4f48ae5ce0165abb69a4f2cb757ffb377f02 rchli <lyric@rch-pro.local> 1652619723 -0700	pull origin optimax: Fast-forward
+dcbb4f48ae5ce0165abb69a4f2cb757ffb377f02 dcbb4f48ae5ce0165abb69a4f2cb757ffb377f02 rchli <lyric@rch-pro.local> 1652829841 -0700	checkout: moving from optimax to fixes
+dcbb4f48ae5ce0165abb69a4f2cb757ffb377f02 dcbb4f48ae5ce0165abb69a4f2cb757ffb377f02 git stash <git@stash> 1652829868 -0700	reset: moving to HEAD
+dcbb4f48ae5ce0165abb69a4f2cb757ffb377f02 7a9a9282c2939fc6477587601272d1b6d92cd6ba rchli <lyric@rch-pro.local> 1652829871 -0700	pull origin fixes: Fast-forward
+7a9a9282c2939fc6477587601272d1b6d92cd6ba 36d3b00fe2284dda749211a6c00dde658efb1507 rchli <lyric@rch-pro.local> 1652848203 -0700	checkout: moving from fixes to main
+36d3b00fe2284dda749211a6c00dde658efb1507 d6656753e201b4ac059e5763ebb738710b7d2c2d rchli <lyric@rch-pro.local> 1652848210 -0700	pull origin main: Fast-forward
+d6656753e201b4ac059e5763ebb738710b7d2c2d 48435934674f42292f784faf1238e40d56ebae64 rchli <lyric@rch-pro.local> 1652849466 -0700	commit: update teameval
+48435934674f42292f784faf1238e40d56ebae64 9ca63c4fafc9b0690a6ec429497fed3a05db0a55 rchli <lyric@rch-pro.local> 1652850369 -0700	commit: FINAL SUBMISSION
+9ca63c4fafc9b0690a6ec429497fed3a05db0a55 4405059c973999afefcaa29027191b47c2bedacd rchli <lyric@rch-pro.local> 1652850467 -0700	commit: FINAL SUBMISSION
+4405059c973999afefcaa29027191b47c2bedacd b2c49e8205f04a736fa0bc4841f96a2eb24b16d7 rchli <lyric@rch-pro.local> 1652851452 -0700	commit: FINAL SUBMISSION
+b2c49e8205f04a736fa0bc4841f96a2eb24b16d7 ce783b77649feac62ba839053cd4ee3081e28373 rchli <lyric@rch-pro.local> 1652852732 -0700	commit: FINAL SUBMISSION
+ce783b77649feac62ba839053cd4ee3081e28373 0113e9b398ab59f4b336e67281f1f25f49421eb0 rchli <lyric@rch-pro.local> 1652853038 -0700	commit: FINAL SUBMISSION
+0113e9b398ab59f4b336e67281f1f25f49421eb0 dcbb4f48ae5ce0165abb69a4f2cb757ffb377f02 rchli <lyric@rch-pro.local> 1654476257 -0700	checkout: moving from main to optimax

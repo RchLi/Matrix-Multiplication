@@ -1,0 +1,7 @@
+0000000000000000000000000000000000000000 6c510b4da3ef8de3d73471bce4e99cb642a2f7d3 RchLi <eric0wandering@gmail.com> 1650164971 -0700	clone: from github.com:cse260-sp22/hw1-pa1-chw055-rul004.git
+6c510b4da3ef8de3d73471bce4e99cb642a2f7d3 fbc73e4c178c5eb2f8629a51816222ad53e36c5d RchLi <eric0wandering@gmail.com> 1650168256 -0700	pull --rebase --autostash: Fast-forward
+fbc73e4c178c5eb2f8629a51816222ad53e36c5d d363666bfa61f0e9a7893941e39700a5d777a899 RchLi <eric0wandering@gmail.com> 1650231530 -0700	commit: update packing
+d363666bfa61f0e9a7893941e39700a5d777a899 62b02c220fbd594d6caf489aa8c12f4d4509367e RchLi <eric0wandering@gmail.com> 1650237866 -0700	pull --rebase --autostash: Fast-forward
+62b02c220fbd594d6caf489aa8c12f4d4509367e 9989bf4346f819a3cba9464d40722bce159b51d3 RchLi <eric0wandering@gmail.com> 1650238323 -0700	commit: add padding
+9989bf4346f819a3cba9464d40722bce159b51d3 baee144b230b0d503d4416cf37c33a7d92f070d8 RchLi <eric0wandering@gmail.com> 1650249497 -0700	pull --rebase --autostash: Fast-forward
+baee144b230b0d503d4416cf37c33a7d92f070d8 30648c7e7cc644554be07e438dfb53c1899fe969 RchLi <eric0wandering@gmail.com> 1650593702 -0700	commit: add

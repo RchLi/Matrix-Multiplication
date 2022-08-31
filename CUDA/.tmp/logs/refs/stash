@@ -1,0 +1,3 @@
+0000000000000000000000000000000000000000 d0ee525b8ebde7b10e44bc18aa46a2dadc9cd8ea git stash <git@stash> 1652604874 -0700	WIP on optimax: 7c4f84f outer product, update blocking
+d0ee525b8ebde7b10e44bc18aa46a2dadc9cd8ea d8e7f8622cf1c9794ee9added8ac25ec6d1430da git stash <git@stash> 1652619720 -0700	WIP on optimax: 35a91e8 finetune paramters, 256~250, other three > 400
+d8e7f8622cf1c9794ee9added8ac25ec6d1430da 348c46b85fab397f9729193104e1929bf2210ad5 git stash <git@stash> 1652829868 -0700	WIP on fixes: dcbb4f4 done, 256 > 360, other > 600

@@ -1,0 +1,9 @@
+0000000000000000000000000000000000000000 36d3b00fe2284dda749211a6c00dde658efb1507 rchli <lyric@rch-pro.local> 1652514371 -0700	branch: Created from HEAD
+36d3b00fe2284dda749211a6c00dde658efb1507 dc980b0976c4aad9665a6b0fba5f1fb5bd6cf6b6 rchli <lyric@rch-pro.local> 1652514454 -0700	pull origin optimize: Fast-forward
+dc980b0976c4aad9665a6b0fba5f1fb5bd6cf6b6 eccdbcd8c5d29e2273e4e4af3f7d13e28f801bf0 rchli <lyric@rch-pro.local> 1652575966 -0700	commit: outer product, draft version
+eccdbcd8c5d29e2273e4e4af3f7d13e28f801bf0 cac200d0171f1f90c807d01f837f6e7f9495794c rchli <lyric@rch-pro.local> 1652593747 -0700	commit: finish outer product coding
+cac200d0171f1f90c807d01f837f6e7f9495794c 9e76c2e32ef8561d18e8885744fdb21b83bf8e78 rchli <lyric@rch-pro.local> 1652595883 -0700	commit: refine outer product code
+9e76c2e32ef8561d18e8885744fdb21b83bf8e78 7c4f84f5324f35e37ec9661e0326c6c7ea9216ed rchli <lyric@rch-pro.local> 1652600918 -0700	commit: outer product, update blocking
+7c4f84f5324f35e37ec9661e0326c6c7ea9216ed 86c46374c29954ca9053b793d379a1ba27c5cf79 rchli <lyric@rch-pro.local> 1652604885 -0700	pull origin optimax: Fast-forward
+86c46374c29954ca9053b793d379a1ba27c5cf79 35a91e82f3eb12ca6f702b42f9eea624c5e5072a rchli <lyric@rch-pro.local> 1652609526 -0700	pull origin optimax: Fast-forward
+35a91e82f3eb12ca6f702b42f9eea624c5e5072a dcbb4f48ae5ce0165abb69a4f2cb757ffb377f02 rchli <lyric@rch-pro.local> 1652619723 -0700	pull origin optimax: Fast-forward
